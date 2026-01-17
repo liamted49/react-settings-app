@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-settings-app/static/css/main.15531ad8.css",
+    "main.js": "/react-settings-app/static/js/main.247dc377.js",
+    "index.html": "/react-settings-app/index.html",
+    "main.15531ad8.css.map": "/react-settings-app/static/css/main.15531ad8.css.map",
+    "main.247dc377.js.map": "/react-settings-app/static/js/main.247dc377.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15531ad8.css",
+    "static/js/main.247dc377.js"
+  ]
+}
